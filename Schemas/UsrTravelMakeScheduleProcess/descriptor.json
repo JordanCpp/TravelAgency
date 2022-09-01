@@ -1,0 +1,9 @@
+﻿{
+  "Descriptor": {
+    "UId": "c42c8b9a-46d2-4dd1-82c7-888281fc3fd0",
+    "Name": "UsrTravelMakeScheduleProcess",
+    "ModifiedOnUtc": "\/Date(1661839581000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Процесс формирования туров"
+  }
+}

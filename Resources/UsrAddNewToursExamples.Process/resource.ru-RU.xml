@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ru-RU">
+	<Group Type="String">
+		<Items>
+			<Item Name="BaseElements.ConditionalSequenceFlow3.Caption" Value="Еженедельные" />
+			<Item Name="BaseElements.ConditionalSequenceFlow4.Caption" Value="Ежедневно" />
+			<Item Name="BaseElements.ConditionalSequenceFlow5.Caption" Value="Ежемесячно" />
+			<Item Name="BaseElements.DefaultSequenceFlow1.Caption" Value="Нет совпадений" />
+			<Item Name="BaseElements.ExclusiveGateway3.Caption" Value="Выбор по типу периодичности" />
+			<Item Name="BaseElements.ReadDataUserTask1.Caption" Value="Получить объект тура" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.AggregationColumnName.Caption" Value="Имя колонки для агрегирующей функции" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.CanReadUncommitedData.Caption" Value="Выполнять &quot;грязное чтение&quot;" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ConsiderTimeInFilter.Caption" Value="Учитывать время в фильтре" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ConsiderTimeInFilter.DisplayValue" Value="false" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.DataSourceFilters.Caption" Value="Источник данных фильтров" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.EntityColumnMetaPathes.Caption" Value="Перечень колонок для чтения" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.FunctionType.Caption" Value="Тип агрегирующей функции" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.IgnoreDisplayValues.Caption" Value="Не читать отображаемые значения колонок Справочников" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.NumberOfRecords.Caption" Value="Количество записей для чтения" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.OrderInfo.Caption" Value="Порядок сортировки колонок" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ReadSomeTopRecords.Caption" Value="Читать первые" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultCompositeObjectList.Caption" Value="Коллекция записей" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultCount.Caption" Value="Количество записей" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultDateTimeFunction.Caption" Value="Результат функции" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultEntity.Caption" Value="Первый элемент результирующей коллекции" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultEntityCollection.Caption" Value="Результирующая коллекция" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultFloatFunction.Caption" Value="Результат функции" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultIntegerFunction.Caption" Value="Результат функции" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultRowsCount.Caption" Value="Количество прочитанных записей" />
+			<Item Name="BaseElements.ReadDataUserTask1.Parameters.ResultType.Caption" Value="Тип результата" />
+			<Item Name="BaseElements.ScriptTask3.Caption" Value="Добавить ежедневные туры" />
+			<Item Name="BaseElements.ScriptTask4.Caption" Value="Добавить еженедельные туры" />
+			<Item Name="BaseElements.ScriptTask5.Caption" Value="Добавить ежемесячные туры" />
+			<Item Name="BaseElements.ScriptTask6.Caption" Value="Обновить деталь" />
+			<Item Name="BaseElements.TerminateEvent1.Caption" Value="Завершен" />
+			<Item Name="Caption" Value="Добавить экземпляры туров" />
+			<Item Name="LaneSets.LaneSet1.Caption" Value="LaneSet 1" />
+			<Item Name="LaneSets.LaneSet1.Lanes.Lane1.Caption" Value="Lane 1" />
+			<Item Name="NotificationCaption.Caption" Value="Заголовок экземпляра процесса" />
+			<Item Name="NotificationCaption.DisplayValue" Value="[#Название процесса#]" />
+			<Item Name="Parameters.InsertRecordCount.Caption" Value="Кол-во вставляемых записей" />
+			<Item Name="Parameters.InsertRecordCount.DisplayValue" Value="8" />
+			<Item Name="Parameters.TourId.Caption" Value="Идентификатор записи" />
+			<Item Name="Parameters.TravelTouState.Caption" Value="Состояние тура" />
+			<Item Name="Parameters.TravelTouState.DisplayValue" Value="[#Справочник.&lt;объект не найден&gt;#]" />
+		</Items>
+	</Group>
+</Resources>
