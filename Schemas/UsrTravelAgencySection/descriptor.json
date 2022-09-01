@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "3b5b06a8-185e-4b75-af2c-7e8c11f4dfdc",
+    "Name": "UsrTravelAgencySection",
+    "ModifiedOnUtc": "\/Date(1661751488000)\/",
+    "Parent": {
+      "UId": "7912fb69-4fee-429f-8b23-93943c35d66d",
+      "Name": "BaseSectionV2"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Схема раздела: \"Турпредложения\""
+  }
+}

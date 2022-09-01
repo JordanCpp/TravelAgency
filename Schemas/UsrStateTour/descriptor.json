@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "a8fd1772-02d5-f430-c039-8eedff357ea5",
+    "Name": "UsrStateTour",
+    "ModifiedOnUtc": "\/Date(1661252312000)\/",
+    "Parent": {
+      "UId": "11ab4bcb-9b23-4b6d-9c86-520fae925d75",
+      "Name": "BaseLookup"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Состояния тура",
+    "DependsOn": []
+  }
+}

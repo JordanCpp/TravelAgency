@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "7a9784d7-53eb-c6c0-afe8-1adde7e25195",
+    "Name": "UsrTours",
+    "ModifiedOnUtc": "\/Date(1661253811000)\/",
+    "Parent": {
+      "UId": "1bab9dcf-17d5-49f8-9536-8e0064f1dce0",
+      "Name": "BaseEntity"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Туры"
+  }
+}

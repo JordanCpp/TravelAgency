@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Турпредложения в группе" />
+			<Item Name="Columns.Folder.Caption" Value="Группа Турпредложения" />
+			<Item Name="Columns.UsrTravelAgency.Caption" Value="Турпредложения" />
+		</Items>
+	</Group>
+</Resources>

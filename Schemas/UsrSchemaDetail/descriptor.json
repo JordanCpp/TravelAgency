@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "49067974-83de-4977-aeac-2b41d8580599",
+    "Name": "UsrSchemaDetail",
+    "ModifiedOnUtc": "\/Date(1661839630000)\/",
+    "Parent": {
+      "UId": "01eb38ee-668a-42f0-999d-c2534f979089",
+      "Name": "BaseGridDetailV2"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Схема детали: \"Туры\""
+  }
+}

@@ -1,0 +1,15 @@
+﻿{
+  "Descriptor": {
+    "UId": "248867ec-846e-4499-4709-7a44534885cb",
+    "Name": "TravelAgency",
+    "ModifiedOnUtc": "\/Date(1661251878000)\/",
+    "Maintainer": "Customer",
+    "DependsOn": [
+      {
+        "UId": "613fd913-be03-46ce-909b-f44e4225469e",
+        "PackageVersion": "7.8.0",
+        "Name": "UIv2"
+      }
+    ]
+  }
+}

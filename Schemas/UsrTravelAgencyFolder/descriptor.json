@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "9b7c87b7-349f-4f30-b089-95d0d540352e",
+    "Name": "UsrTravelAgencyFolder",
+    "ModifiedOnUtc": "\/Date(1661252840000)\/",
+    "Parent": {
+      "UId": "d602bf96-d029-4b07-9755-63c8f5cb5ed5",
+      "Name": "BaseFolder"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Группа Турпредложения"
+  }
+}
